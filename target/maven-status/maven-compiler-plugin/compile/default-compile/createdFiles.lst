@@ -1,0 +1,8 @@
+net/xdclass/online_class/SqlSessionDemo.class
+net/xdclass/online_class/domain/Video.class
+net/xdclass/online_class/dao/VideoMapper.class
+net/xdclass/online_class/TransactionDemo.class
+net/xdclass/online_class/SqlSessionCacheDemo.class
+net/xdclass/online_class/domain/User.class
+net/xdclass/online_class/domain/VideoOrder.class
+net/xdclass/online_class/dao/VideoOrderMapper.class
